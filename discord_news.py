@@ -5,25 +5,37 @@ import os
 from datetime import datetime
 
 # 1. 설정: GitHub Actions의 'env' 설정과 이름을 맞췄습니다.
-DISCORD_WEBHOOK_URL = os.environ.get('NEWSBOT') 
+DISCORD_WEBHOOK_URL = os.environ.get('NEWSBOTG') 
 RSS_URL = "https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko"
 DB_FILE = "sent_links.txt"
 
 # 2. 키워드별 색상 매핑 (10진수 색상 코드)
 # 팁: 나중에 키워드를 추가하려면 아래 리스트에 똑같이 적으세요.
 # 더 민감하고 수익에 직결되는 키워드들입니다.
+# 특정 종목을 빼고, 시장 전체를 아우르는 키워드로 교체합니다.
 KEYWORD_COLORS = {
-    "상한가": 15548997,   # 강렬한 빨강
-    "공시": 16776960,     # 노랑 (중요 정보)
-    "영업이익": 16776960,
-    "흑자전환": 5763719,   # 녹색 (호재)
-    "최대주주": 10181046,  # 보라 (지분 변동)
-    "급등": 15548997,
-    "폭락": 2303786,
-    "나스닥": 5763719,
-    "코스피": 3447003,
-    "특징주": 10181046,   # 보라 (시장 관심주)
-    "뉴스": 3447003       # (테스트용: 알림이 잘 오는지 확인 후 삭제하세요)
+    # 🔴 매크로 및 긴급 (시장 전체 흔들림)
+    "FED": 15548997, 
+    "CPI": 15548997,
+    "INFLATION": 15548997,
+    "INTEREST RATE": 15548997,
+    
+    # 🟡 기업 실적 및 공시 (돈의 흐름)
+    "EARNINGS": 16776960,
+    "REVENUE": 16776960,
+    "GUIDANCE": 16776960,
+    "M&A": 16776960,
+    
+    # 🟢 시장 지수 및 테마 (우상향 신호)
+    "NASDAQ": 5763719,
+    "S&P 500": 5763719,
+    "RALLY": 5763719,
+    "BREAKOUT": 5763719,
+    
+    # 🔵 섹터 뉴스 (산업 전반)
+    "BIG TECH": 3447003,
+    "AI": 3447003,
+    "SEMICONDUCTOR": 3447003
 }
 
 def load_sent_links():
