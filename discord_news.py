@@ -13,30 +13,27 @@ RSS_URLS = [
 ]
 DB_FILE = "sent_links.txt"
 
-# 2. 키워드별 색상 매핑 (10진수 색상 코드)
-# 팁: 나중에 키워드를 추가하려면 아래 리스트에 똑같이 적으세요.
-# 더 민감하고 수익에 직결되는 키워드들입니다.
-# 특정 종목을 빼고, 시장 전체를 아우르는 키워드로 교체합니다.
+# 2. 키워드별 색상 매핑 (광범위 매크로 버전)
 KEYWORD_COLORS = {
-    # 🔴 매크로 및 긴급 (시장 전체 흔들림)
+    # 🔴 매크로 및 긴급
     "FED": 15548997, 
     "CPI": 15548997,
     "INFLATION": 15548997,
     "INTEREST RATE": 15548997,
     
-    # 🟡 기업 실적 및 공시 (돈의 흐름)
+    # 🟡 기업 실적 및 공시
     "EARNINGS": 16776960,
     "REVENUE": 16776960,
     "GUIDANCE": 16776960,
     "M&A": 16776960,
     
-    # 🟢 시장 지수 및 테마 (우상향 신호)
+    # 🟢 시장 지수 및 테마
     "NASDAQ": 5763719,
     "S&P 500": 5763719,
     "RALLY": 5763719,
     "BREAKOUT": 5763719,
     
-    # 🔵 섹터 뉴스 (산업 전반)
+    # 🔵 섹터 뉴스
     "BIG TECH": 3447003,
     "AI": 3447003,
     "SEMICONDUCTOR": 3447003
@@ -57,16 +54,18 @@ def save_sent_link(link):
 def send_to_discord(entry, color, keyword):
     """디스코드 임베드 형식으로 전송"""
     if not DISCORD_WEBHOOK_URL:
-        print("❌ 에러: 웹훅 주소가 없습니다.")
         return
+
+    # 날짜 정보가 없는 경우 처리
+    pub_date = getattr(entry, 'published', '날짜 정보 없음')
 
     payload = {
         "embeds": [{
             "title": f"[{keyword}] {entry.title}",
             "url": entry.link,
-            "description": f"📅 {entry.published}",
+            "description": f"📅 {pub_date}",
             "color": color,
-            "footer": {"text": "실시간 주식 뉴스 큐레이션"}
+            "footer": {"text": "실시간 글로벌 증시 큐레이션 by 재우"}
         }]
     }
     
@@ -80,24 +79,31 @@ def run_bot():
     print(f"🚀 [{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] 스캔 시작...")
     
     if not DISCORD_WEBHOOK_URL:
-        print("❌ DISCORD_WEBHOOK 환경 변수를 찾을 수 없습니다.")
+        print("❌ DISCORD_WEBHOOK(NEWSBOTG) 환경 변수를 찾을 수 없습니다.")
         return
 
-    feed = feedparser.parse(RSS_URL)
     sent_links = load_sent_links()
-    
     new_news_count = 0
-    # 최식 뉴스 50개를 훑으며 키워드 검색
-    for entry in feed.entries[:50]:
-        if entry.link not in sent_links:
-            # 제목에서 키워드 찾기
-            found_keyword = next((kw for kw in KEYWORD_COLORS if kw in entry.title), None)
-            
-            if found_keyword:
-                target_color = KEYWORD_COLORS[found_keyword]
-                send_to_discord(entry, target_color, found_keyword)
-                save_sent_link(entry.link)
-                new_news_count += 1
+
+    # 리스트에 담긴 모든 RSS URL을 순회합니다.
+    for rss_url in RSS_URLS:
+        try:
+            feed = feedparser.parse(rss_url)
+            # 각 피드에서 최신 뉴스 30개씩 확인
+            for entry in feed.entries[:30]:
+                if entry.link not in sent_links:
+                    # 제목을 대문자로 변환하여 키워드 매칭 (대소문자 무시)
+                    upper_title = entry.title.upper()
+                    found_keyword = next((kw for kw in KEYWORD_COLORS if kw in upper_title), None)
+                    
+                    if found_keyword:
+                        target_color = KEYWORD_COLORS[found_keyword]
+                        send_to_discord(entry, target_color, found_keyword)
+                        save_sent_link(entry.link)
+                        sent_links.add(entry.link) # 중복 방지 즉시 반영
+                        new_news_count += 1
+        except Exception as e:
+            print(f"❌ {rss_url} 스캔 중 오류 발생: {e}")
     
     print(f"🏁 작업 완료. 새로 전송된 뉴스: {new_news_count}개")
 
