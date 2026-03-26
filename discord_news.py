@@ -6,7 +6,11 @@ from datetime import datetime
 
 # 1. 설정: GitHub Actions의 'env' 설정과 이름을 맞췄습니다.
 DISCORD_WEBHOOK_URL = os.environ.get('NEWSBOTG') 
-RSS_URL = "https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko"
+RSS_URLS = [
+    "https://news.google.com/rss/search?q=급등+상한가+공시&hl=ko&gl=KR", # 국내
+    "https://search.cnbc.com/rs/search/combined/all/rss.xml",           # 해외(CNBC)
+    "https://finance.yahoo.com/news/rssindex"                         # 해외(Yahoo)
+]
 DB_FILE = "sent_links.txt"
 
 # 2. 키워드별 색상 매핑 (10진수 색상 코드)
