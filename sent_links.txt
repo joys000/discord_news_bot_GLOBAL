@@ -568,3 +568,11 @@ https://finance.yahoo.com/personal-finance/mortgages/article/copy-mortgage-refin
 https://finance.yahoo.com/markets/stocks/articles/leidos-holdings-ldos-partners-cloud-200014014.html
 https://finance.yahoo.com/markets/stocks/articles/axos-financial-inc-ax-branchless-195603641.html
 https://finance.yahoo.com/markets/stocks/articles/amentum-holdings-amtm-poised-growth-195422741.html
+https://finance.yahoo.com/markets/stocks/articles/acm-research-acmr-shanghai-unit-203813942.html
+https://finance.yahoo.com/sectors/technology/articles/lattice-semiconductor-lscc-partners-nvidia-203526768.html
+https://finance.yahoo.com/sectors/technology/articles/marvell-technology-mrvl-one-high-202700960.html
+https://finance.yahoo.com/markets/stocks/articles/bofa-remains-buy-caterpillar-inc-201640314.html
+https://finance.yahoo.com/markets/stocks/articles/jefferies-remains-buy-eli-lilly-201552318.html
+https://finance.yahoo.com/sectors/technology/articles/apple-inc-aapl-siri-powerful-201501407.html
+https://finance.yahoo.com/markets/stocks/articles/ubs-lowers-pt-microsoft-msft-201215591.html
+https://finance.yahoo.com/sectors/technology/articles/rtx-corporation-rtx-secures-2-200302263.html
