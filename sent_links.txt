@@ -750,3 +750,10 @@ https://finance.yahoo.com/markets/stocks/articles/xsd-investors-intel-foundry-lo
 https://finance.yahoo.com/markets/stocks/articles/fanduel-predicts-app-could-add-113500369.html
 https://finance.yahoo.com/markets/stocks/articles/p-500-correction-getting-closer-114200904.html
 https://finance.yahoo.com/markets/stocks/articles/expect-cme-groups-q1-2026-111249246.html
+https://finance.yahoo.com/markets/commodities/articles/soybeans-seeing-slight-monday-morning-123554885.html
+https://finance.yahoo.com/markets/commodities/articles/cotton-starting-off-monday-gains-123554983.html
+https://finance.yahoo.com/sectors/technology/articles/hyperscale-data-expands-michigan-ai-124600591.html
+https://www.investors.com/news/byd-exports-tesla-china-evs-electric-vehicles-autos-cars/?src=A00220&yptr=yahoo
+https://finance.yahoo.com/sectors/healthcare/articles/resmed-earnings-preview-expect-122728833.html
+https://finance.yahoo.com/markets/stocks/articles/raymond-james-financial-earnings-preview-125005054.html
+https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-co-tsm-125604873.html
