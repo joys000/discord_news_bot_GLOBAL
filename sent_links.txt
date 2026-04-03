@@ -1102,3 +1102,6 @@ https://finance.yahoo.com/markets/stocks/articles/bernstein-updates-rail-view-li
 https://finance.yahoo.com/markets/stocks/articles/morningstar-bullish-2-ai-dividend-020300969.html
 https://finance.yahoo.com/markets/commodities/articles/oil-rises-asian-stocks-fall-024653377.html
 https://finance.yahoo.com/sectors/technology/articles/missing-piece-ai-strategy-040100415.html
+https://finance.yahoo.com/markets/options/articles/income-investors-using-hybl-dodge-141002677.html
+https://finance.yahoo.com/sectors/technology/article/openai-buys-tech-news-show-tbpn-in-ai-giants-biggest-media-push-yet-175749747.html
+https://finance.yahoo.com/markets/stocks/articles/ask-advisor-advisor-sold-nvidia-120000769.html
