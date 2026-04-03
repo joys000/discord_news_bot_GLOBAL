@@ -1095,3 +1095,10 @@ https://finance.yahoo.com/sectors/technology/articles/honeywell-partners-rhombus
 https://finance.yahoo.com/markets/stocks/articles/changes-opinion-10-times-day-010056090.html
 https://finance.yahoo.com/markets/stocks/articles/truist-cautious-corning-glw-despite-012849072.html
 https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-highlights-inflation-currency-013044337.html
+https://finance.yahoo.com/sectors/technology/articles/ibm-partners-eth-zurich-10-014432784.html
+https://finance.yahoo.com/markets/stocks/articles/td-cowen-trims-adp-target-014238391.html
+https://finance.yahoo.com/markets/stocks/articles/baird-lowers-donaldson-dci-price-014947252.html
+https://finance.yahoo.com/markets/stocks/articles/bernstein-updates-rail-view-lifts-015433631.html
+https://finance.yahoo.com/markets/stocks/articles/morningstar-bullish-2-ai-dividend-020300969.html
+https://finance.yahoo.com/markets/commodities/articles/oil-rises-asian-stocks-fall-024653377.html
+https://finance.yahoo.com/sectors/technology/articles/missing-piece-ai-strategy-040100415.html
