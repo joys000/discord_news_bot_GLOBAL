@@ -1177,3 +1177,10 @@ https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-melco-r
 https://finance.yahoo.com/markets/stocks/articles/ci-t-inc-cint-full-000612377.html
 https://finance.yahoo.com/sectors/healthcare/articles/ss-innovations-international-inc-ssii-000646626.html
 https://finance.yahoo.com/markets/stocks/articles/alliance-global-raises-pyxis-tankers-000814873.html
+https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-warns-arcos-dorados-004156050.html
+https://finance.yahoo.com/markets/crypto/articles/h-c-wainwright-lowers-bitfufu-004228940.html
+https://finance.yahoo.com/markets/stocks/articles/bmo-lowers-carlyle-group-inc-003600096.html
+https://finance.yahoo.com/markets/stocks/articles/fox-corporation-foxa-target-cut-003339781.html
+https://finance.yahoo.com/markets/stocks/articles/bofa-starts-coverage-coreweave-inc-003003504.html
+https://finance.yahoo.com/markets/stocks/articles/airbnb-inc-abnb-target-raised-002925562.html
+https://finance.yahoo.com/markets/stocks/articles/piper-sandler-maintains-overweight-applovin-002852077.html
