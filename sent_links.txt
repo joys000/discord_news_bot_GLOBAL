@@ -1232,3 +1232,6 @@ https://finance.yahoo.com/markets/stocks/articles/p-500-sank-5-last-170500240.ht
 https://finance.yahoo.com/economy/articles/rail-truck-data-highlight-strong-165301602.html
 https://finance.yahoo.com/markets/stocks/articles/top-ai-etfs-let-invest-165205040.html
 https://finance.yahoo.com/markets/stocks/articles/30-old-chain-closing-28-170700367.html
+https://finance.yahoo.com/markets/stocks/articles/jim-cramer-praises-intel-intc-182846306.html
+https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-salesforce-crm-182834856.html
+https://finance.yahoo.com/markets/stocks/articles/microsoft-going-multi-model-copilot-182000416.html
