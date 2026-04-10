@@ -1731,3 +1731,9 @@ https://finance.yahoo.com/markets/stocks/articles/national-grid-ngg-pt-increased
 https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-raises-citigroup-c-020729566.html
 https://finance.yahoo.com/research/reports/ARGUS_46694_TopBottomInsiderActivity_1775819659000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 https://finance.yahoo.com/markets/stocks/articles/jpmorgan-revises-southstate-bank-ssb-021515708.html
+https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-cpi-inflation-data-march-tsmc-stock/?src=A00220&yptr=yahoo
+https://www.investors.com/news/technology/tsm-stock-chip-foundry-tsmc-tops-q1-sales-views/?src=A00220&yptr=yahoo
+https://finance.yahoo.com/sectors/technology/article/anthropic-and-coreweave-sign-ai-agreement-as-chip-deals-explode-141357605.html
+https://finance.yahoo.com/markets/stocks/articles/makes-crowdstrike-crwd-critical-enabler-135921936.html
+https://finance.yahoo.com/news/live/stock-market-today-stocks-mixed-as-nasdaq-rises-dow-falls-after-march-cpi-data-shows-surging-energy-costs-230420728.html
+https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-downgrades-t-t-031212130.html
