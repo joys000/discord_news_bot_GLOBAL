@@ -1896,3 +1896,6 @@ https://finance.yahoo.com/markets/stocks/articles/hubspot-hubs-turning-early-age
 https://finance.yahoo.com/markets/stocks/articles/why-salesforce-crm-betting-agentforce-170644318.html
 https://finance.yahoo.com/markets/stocks/articles/five9-fivn-expanding-agentic-ai-170642759.html
 https://finance.yahoo.com/markets/stocks/articles/could-investing-50-000-broadcom-172500288.html
+https://finance.yahoo.com/sectors/technology/articles/cadence-cdns-nvidia-nvda-expand-173608112.html
+https://finance.yahoo.com/sectors/technology/articles/atlassian-team-introduces-ai-powered-173454899.html
+https://finance.yahoo.com/sectors/technology/articles/google-googl-intel-intc-partner-173435521.html
