@@ -1824,3 +1824,6 @@ https://finance.yahoo.com/markets/stocks/articles/royal-bank-canada-agm-director
 https://finance.yahoo.com/markets/stocks/articles/jpmorgan-raises-bny-mellon-bk-034907575.html
 https://finance.yahoo.com/markets/crypto/articles/btc-reclaims-72k-circle-bullish-035000062.html
 https://finance.yahoo.com/sectors/technology/articles/accenture-invests-replit-accelerate-ai-035111351.html
+https://finance.yahoo.com/sectors/energy/articles/petrobras-moves-reclaim-full-control-043032709.html
+https://finance.yahoo.com/sectors/technology/articles/hsbc-hsbc-appoints-david-rice-044340672.html
+https://finance.yahoo.com/markets/stocks/articles/veralto-vlto-acquire-globalvision-support-044638018.html
