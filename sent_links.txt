@@ -1850,3 +1850,9 @@ https://finance.yahoo.com/markets/stocks/articles/nasdaq-made-solid-recovery-2-0
 https://finance.yahoo.com/markets/stocks/articles/meta-banks-ai-clear-smoke-093000326.html
 https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-april-10-2026-prices-rise-ahead-of-cpi-report-111733660.html
 https://www.wsj.com/business/retail/sodexo-shares-tumble-on-earnings-miss-lowered-outlook-bef6eb88?siteid=yhoof2&yptr=yahoo
+https://finance.yahoo.com/economy/policy/articles/p-futures-waver-eyes-key-102716097.html
+https://finance.yahoo.com/sectors/energy/articles/coterra-energy-earnings-preview-expect-102958742.html
+https://finance.yahoo.com/sectors/energy/articles/diamondback-energy-q1-2026-earnings-103215919.html
+https://finance.yahoo.com/sectors/healthcare/articles/zimmer-biomet-quarterly-earnings-preview-103446613.html
+https://finance.yahoo.com/sectors/healthcare/articles/expect-vertex-pharmaceuticals-q1-2026-103744408.html
+https://finance.yahoo.com/sectors/healthcare/articles/expect-henry-schein-q1-2026-104003867.html
