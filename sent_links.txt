@@ -3923,3 +3923,8 @@ https://finance.yahoo.com/sectors/technology/articles/amazon-targets-mass-hiring
 https://www.investors.com/news/coca-cola-ko-stock-coke-earnings-inflation/?src=A00220&yptr=yahoo
 https://finance.yahoo.com/sectors/healthcare/articles/jim-cramer-says-health-care-154500395.html
 https://finance.yahoo.com/markets/stocks/articles/corning-glw-q1-2026-earnings-161259518.html
+https://finance.yahoo.com/sectors/healthcare/articles/centene-cnc-q1-2026-earnings-160743978.html
+https://finance.yahoo.com/markets/stocks/articles/sportradar-group-q1-earnings-call-160803136.html
+https://finance.yahoo.com/markets/stocks/articles/opera-q1-earnings-call-highlights-160801400.html
+https://finance.yahoo.com/markets/stocks/articles/purple-innovation-q1-earnings-call-160802625.html
+https://finance.yahoo.com/markets/stocks/articles/smithfield-foods-q1-earnings-call-160802355.html
