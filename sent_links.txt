@@ -4322,3 +4322,10 @@ https://finance.yahoo.com/markets/stocks/articles/federated-hermes-agm-directors
 https://finance.yahoo.com/markets/stocks/articles/waste-management-q1-earnings-call-181222812.html
 https://finance.yahoo.com/markets/stocks/articles/westwood-holdings-group-q1-earnings-181220334.html
 https://finance.yahoo.com/markets/stocks/articles/wyndham-hotels-resorts-q1-earnings-181216769.html
+https://finance.yahoo.com/economy/policy/articles/recent-inflation-data-bad-news-190611607.html
+https://finance.yahoo.com/markets/stocks/articles/mizuho-financial-group-inc-mfg-183137710.html
+https://finance.yahoo.com/sectors/energy/articles/exxonmobil-q1-earnings-call-highlights-190733720.html
+https://finance.yahoo.com/markets/stocks/articles/xpo-q1-earnings-call-highlights-190733111.html
+https://finance.yahoo.com/markets/stocks/articles/zeta-global-q1-earnings-call-190733453.html
+https://finance.yahoo.com/markets/stocks/articles/applied-digital-corporation-apld-delivers-182931167.html
+https://finance.yahoo.com/sectors/healthcare/articles/anktiva-strong-demand-propels-immunitybio-182923295.html
