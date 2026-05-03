@@ -4404,3 +4404,6 @@ https://finance.yahoo.com/markets/stocks/articles/taiwan-semi-selling-arm-stock-
 https://finance.yahoo.com/markets/stocks/articles/siteone-landscape-supply-q1-earnings-113620752.html
 https://finance.yahoo.com/sectors/healthcare/articles/select-medical-q1-earnings-call-113620514.html
 https://finance.yahoo.com/markets/stocks/articles/smith-douglas-homes-q1-earnings-113620753.html
+https://finance.yahoo.com/markets/article/palantir-expected-to-report-q1-revenue-jump-as-software-stocks-rebound-141825154.html
+https://finance.yahoo.com/markets/stocks/articles/corporate-america-earnings-beat-back-130000785.html
+https://finance.yahoo.com/sectors/technology/articles/miivo-ceo-discusses-ai-platform-130000230.html
