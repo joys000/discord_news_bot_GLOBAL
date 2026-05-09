@@ -5068,3 +5068,6 @@ https://finance.yahoo.com/markets/stocks/articles/coty-q3-earnings-call-highligh
 https://finance.yahoo.com/markets/stocks/articles/concentra-group-holdings-parent-q1-210445273.html
 https://finance.yahoo.com/markets/stocks/articles/carters-q1-earnings-call-highlights-220644718.html
 https://finance.yahoo.com/sectors/energy/articles/california-resources-q1-earnings-call-220644494.html
+https://finance.yahoo.com/markets/stocks/articles/caretrust-reit-q1-earnings-call-230350200.html
+https://finance.yahoo.com/markets/stocks/articles/carriage-services-q1-earnings-call-230350990.html
+https://finance.yahoo.com/sectors/healthcare/articles/charles-river-laboratories-international-q1-230349782.html
