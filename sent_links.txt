@@ -5261,3 +5261,4 @@ https://finance.yahoo.com/markets/stocks/articles/validating-headline-phrasing-e
 https://finance.yahoo.com/markets/stocks/articles/dan-ives-t-clearer-palantir-140002451.html
 https://finance.yahoo.com/sectors/technology/articles/ai-agents-coming-online-shopping-133434129.html
 https://finance.yahoo.com/markets/stocks/articles/disney-stock-popped-earnings-results-150002240.html
+https://finance.yahoo.com/sectors/healthcare/articles/goodrx-vs-hims-hers-health-124401099.html
