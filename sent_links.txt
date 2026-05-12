@@ -5324,3 +5324,6 @@ https://finance.yahoo.com/markets/stocks/articles/ramaco-resources-q1-earnings-c
 https://www.investors.com/news/technology/asts-stock-ast-spacemobile-earnings-q12026/?src=A00220&yptr=yahoo
 https://www.investors.com/news/technology/ai-stocks-nvidia-amd-broadcom-price-target-hikes/?src=A00220&yptr=yahoo
 https://finance.yahoo.com/economy/policy/articles/korea-roils-market-floating-citizen-081026940.html
+https://finance.yahoo.com/markets/stocks/articles/stocks-set-muted-open-oil-104047351.html
+https://finance.yahoo.com/markets/crypto/articles/circles-quarterly-earnings-benefit-stablecoin-103038261.html
+https://finance.yahoo.com/economy/policy/articles/us-container-imports-dip-april-105440577.html
