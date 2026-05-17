@@ -5840,3 +5840,7 @@ https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-top-10-10
 https://finance.yahoo.com/markets/stocks/articles/wells-fargo-raises-nvidia-nvda-104510957.html
 https://finance.yahoo.com/markets/stocks/articles/wells-fargo-piper-sandler-raise-101726596.html
 https://finance.yahoo.com/markets/stocks/articles/colgate-palmolive-cl-beats-expectations-100423667.html
+https://finance.yahoo.com/sectors/energy/articles/hydro-one-q1-earnings-call-110406757.html
+https://finance.yahoo.com/markets/stocks/articles/goeasy-q1-earnings-call-highlights-110406755.html
+https://finance.yahoo.com/markets/stocks/articles/nanoxplore-q3-earnings-call-highlights-110405375.html
+https://finance.yahoo.com/markets/stocks/articles/finning-international-q1-earnings-call-110405756.html
