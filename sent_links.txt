@@ -6426,3 +6426,6 @@ https://finance.yahoo.com/sectors/technology/articles/alibaba-baba-unveils-zhenw
 https://finance.yahoo.com/economy/policy/articles/fed-chair-kevin-warsh-faces-120000916.html
 https://www.investors.com/news/ai-energy-infrastructure-stocks-buy-points-midstream-oil-gas/?src=A00220&yptr=yahoo
 https://finance.yahoo.com/markets/stocks/articles/united-airlines-holdings-ual-one-115650096.html
+https://finance.yahoo.com/markets/stocks/articles/agi-cpu-demand-pushed-arm-130002120.html
+https://finance.yahoo.com/markets/stocks/articles/berkshire-buys-delta-airlines-billionaire-140002098.html
+https://finance.yahoo.com/markets/crypto/articles/popdex-raises-30-million-vcs-132129181.html
