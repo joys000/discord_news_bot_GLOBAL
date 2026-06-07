@@ -7349,3 +7349,6 @@ https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-
 https://finance.yahoo.com/sectors/technology/articles/anthropic-openai-desperate-compute-let-113206890.html
 https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-surging-ceo-140002775.html
 https://finance.yahoo.com/sectors/technology/articles/broadcom-ceo-drops-unexpected-message-155444152.html
+https://finance.yahoo.com/markets/stocks/articles/fidelity-slashed-spacex-minimum-2-171500631.html
+https://finance.yahoo.com/markets/stocks/articles/opinion-broadcom-canary-ai-coal-170500733.html
+https://finance.yahoo.com/markets/options/articles/mstu-down-95-2x-daily-170023402.html
