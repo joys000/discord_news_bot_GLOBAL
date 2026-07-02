@@ -9040,3 +9040,10 @@ https://www.investors.com/news/technology/why-openai-and-anthropics-road-to-ipo-
 https://www.investors.com/news/technology/quantum-computing-stocks-iqm-europe-nasdaq-debut/?src=A00220&yptr=yahoo
 https://www.investors.com/research/ibd-stock-analysis/adeia-intellectual-property-licensing-google-disney-netflix-microsoft/?src=A00220&yptr=yahoo
 https://finance.yahoo.com/markets/crypto/articles/morning-minute-robinhood-debuts-robinhood-120626191.html
+https://finance.yahoo.com/research/reports/ARGUS_47503_MarketOutlook_1782998454000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+https://www.investors.com/news/technology/nvidia-stock-chipmaker-partners-sharon-ai-firmus/?src=A00220&yptr=yahoo
+https://finance.yahoo.com/research/reports/ARGUS_47500_TopBottomInsiderActivity_1782991526000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+https://finance.yahoo.com/research/reports/ARGUS_47499_InsiderActivity_1782991526000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+https://finance.yahoo.com/technology/ai/articles/michael-burry-bear-case-ai-141354891.html
+https://finance.yahoo.com/markets/article/stock-analysts-may-be-setting-up-the-market-for-a-summer-failure-135125532.html
+https://finance.yahoo.com/markets/crypto/articles/robinhood-markets-launches-public-blockchain-135000798.html
