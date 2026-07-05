@@ -9302,3 +9302,6 @@ https://finance.yahoo.com/technology/ai/articles/factset-partners-google-cloud-g
 https://finance.yahoo.com/markets/stocks/articles/prediction-next-supercycle-ai-memory-100000357.html
 https://finance.yahoo.com/markets/stocks/articles/why-microsoft-msft-one-best-125351983.html
 https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-hugging-face-expand-125450801.html
+https://finance.yahoo.com/technology/ai/articles/alex-karp-bashes-openai-anthropic-113110384.html
+https://finance.yahoo.com/technology/ai/articles/study-ai-actually-creating-more-112148300.html
+https://finance.yahoo.com/markets/stocks/articles/p-500-10-2026-long-112000562.html
