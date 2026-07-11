@@ -9841,3 +9841,7 @@ https://finance.yahoo.com/markets/stocks/articles/3-stocks-crushed-nvidia-300-14
 https://finance.yahoo.com/energy/articles/nuclear-energy-stock-smr-trading-140500714.html
 https://finance.yahoo.com/healthcare/articles/2027-cola-coming-retiree-medicare-140315298.html
 https://finance.yahoo.com/markets/stocks/articles/shake-shack-vs-texas-roadhouse-140300866.html
+https://finance.yahoo.com/technology/ai/articles/advanced-energy-aeis-introduces-800-142331408.html
+https://finance.yahoo.com/markets/stocks/articles/ftai-aviation-ftai-partners-aei-142314128.html
+https://finance.yahoo.com/technology/ai/articles/cognizant-ctsh-launches-neuro-ai-142239147.html
+https://finance.yahoo.com/technology/ai/articles/ai-consuming-world-memory-supply-133942301.html
