@@ -9917,3 +9917,4 @@ https://finance.yahoo.com/markets/stocks/articles/micron-technology-inc-mu-top-1
 https://finance.yahoo.com/technology/ai/articles/alphabet-inc-googl-top-ai-140116583.html
 https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-top-ai-140057125.html
 https://finance.yahoo.com/small-business/articles/costco-worker-earns-33-per-140000866.html
+https://finance.yahoo.com/technology/ai/articles/haleon-hln-partners-microsoft-msft-132610148.html
