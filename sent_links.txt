@@ -10377,3 +10377,8 @@ https://finance.yahoo.com/markets/stocks/articles/europe-inc-heads-strongest-ear
 https://finance.yahoo.com/technology/ai/articles/airbus-picks-iliads-scaleway-ai-050137000.html
 https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-decline-south-051353738.html
 https://finance.yahoo.com/markets/stocks/articles/xntk-vs-qqq-does-35-235619565.html
+https://finance.yahoo.com/markets/stocks/articles/m-t-bank-mtb-q2-003219752.html
+https://finance.yahoo.com/healthcare/articles/elevance-health-elv-q2-2026-003219504.html
+https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ms-q2-2026-003219361.html
+https://finance.yahoo.com/markets/stocks/articles/asml-asml-q2-2026-earnings-003219763.html
+https://finance.yahoo.com/technology/ai/articles/airbus-picks-iliads-scaleway-ai-050137770.html
