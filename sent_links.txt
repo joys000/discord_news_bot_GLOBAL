@@ -11575,3 +11575,10 @@ https://finance.yahoo.com/technology/ai/articles/cadence-design-systems-inc-q2-1
 https://finance.yahoo.com/markets/stocks/articles/kforce-inc-q2-2026-earnings-123000672.html
 https://finance.yahoo.com/markets/stocks/articles/alliance-partners-l-p-q2-123000455.html
 https://finance.yahoo.com/healthcare/articles/universal-health-services-inc-q2-123000903.html
+https://finance.yahoo.com/technology/articles/applied-materials-amat-rose-ai-133054061.html
+https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-surged-132709500.html
+https://finance.yahoo.com/markets/stocks/article/boeing-q2-revenue-tops-estimates-as-jet-deliveries-climb-cash-turns-positive-120622920.html
+https://finance.yahoo.com/markets/stocks/articles/chevron-corporation-cvx-remains-well-131455654.html
+https://finance.yahoo.com/markets/stocks/articles/lam-research-corporation-lrcx-rose-131350670.html
+https://finance.yahoo.com/markets/stocks/articles/t-t-remains-competitive-despite-130409846.html
+https://finance.yahoo.com/markets/stocks/articles/buy-donald-trump-dividend-stock-130044152.html
