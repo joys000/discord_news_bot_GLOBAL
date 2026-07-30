@@ -11590,3 +11590,5 @@ https://finance.yahoo.com/technology/ai/articles/salesforce-crm-impact-ai-deploy
 https://finance.yahoo.com/small-business/articles/she-custodian-data-center-now-152500445.html
 https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-brother-sister-bet-160457744.html
 https://finance.yahoo.com/energy/articles/oil-prices-retreat-strait-hormuz-152000595.html
+https://www.investors.com/research/options/advanced-micro-devices-amd-stock-bear-put-spread-options/?src=A00220&yptr=yahoo
+https://finance.yahoo.com/technology/articles/lam-research-lrcx-rose-ai-135717369.html
