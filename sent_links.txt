@@ -12756,3 +12756,8 @@ https://finance.yahoo.com/markets/stocks/articles/fastly-q2-earnings-call-highli
 https://finance.yahoo.com/media-advertising/articles/fubotv-q3-earnings-call-highlights-080401998.html
 https://finance.yahoo.com/healthcare/articles/figs-q2-earnings-call-highlights-080359729.html
 https://finance.yahoo.com/markets/stocks/articles/flotek-industries-q2-earnings-call-080401091.html
+https://finance.yahoo.com/markets/stocks/articles/global-payments-q2-earnings-call-100349946.html
+https://finance.yahoo.com/healthcare/articles/guardian-pharmacy-services-q2-earnings-100349250.html
+https://finance.yahoo.com/energy/articles/geopark-q2-earnings-call-highlights-100349672.html
+https://finance.yahoo.com/markets/stocks/articles/acushnet-q2-earnings-call-highlights-100348245.html
+https://finance.yahoo.com/markets/stocks/articles/genworth-financial-q2-earnings-call-100348064.html
