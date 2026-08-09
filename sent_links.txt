@@ -12773,3 +12773,7 @@ https://finance.yahoo.com/markets/stocks/articles/heritage-insurance-q2-earnings
 https://finance.yahoo.com/markets/stocks/articles/hyster-yale-q2-earnings-call-130404389.html
 https://finance.yahoo.com/markets/stocks/articles/scott-galloway-warned-us-stock-142000770.html
 https://finance.yahoo.com/markets/stocks/articles/howmet-aerospace-q2-earnings-call-130404209.html
+https://finance.yahoo.com/markets/stocks/articles/microsoft-sits-12-below-high-144300863.html
+https://finance.yahoo.com/technology/ai/articles/palantir-vs-salesforce-two-visions-143041508.html
+https://finance.yahoo.com/technology/ai/articles/why-vertiv-1-best-kept-142000256.html
+https://finance.yahoo.com/economy/policy/articles/bank-america-issues-stark-warning-141700672.html
