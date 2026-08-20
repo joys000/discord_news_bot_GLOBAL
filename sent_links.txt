@@ -14305,3 +14305,7 @@ https://finance.yahoo.com/markets/stocks/articles/anterix-atex-q1-2027-earnings-
 https://finance.yahoo.com/markets/stocks/articles/intrusion-intz-q2-2026-earnings-231520041.html
 https://finance.yahoo.com/markets/stocks/articles/us-antimony-uamy-q2-2026-231511276.html
 https://finance.yahoo.com/technology/ai/articles/broadcom-vs-nvidia-1-metric-231500421.html
+https://finance.yahoo.com/markets/stocks/articles/owlet-owlt-q2-2026-earnings-234302744.html
+https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998?siteid=yhoof2&yptr=yahoo
+https://finance.yahoo.com/markets/stocks/articles/b-g-foods-bgs-q2-234502938.html
+https://finance.yahoo.com/markets/stocks/articles/izea-izea-q2-2026-earnings-234612956.html
