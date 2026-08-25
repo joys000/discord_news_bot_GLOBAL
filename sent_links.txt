@@ -14942,3 +14942,7 @@ https://finance.yahoo.com/markets/options/articles/option-volatility-earnings-re
 https://finance.yahoo.com/economy/policy/articles/philly-lender-becomes-fifth-bank-102530127.html
 https://finance.yahoo.com/small-business/articles/grocers-pivot-gen-z-families-115000237.html
 https://www.barrons.com/articles/nyse-nasdaq-new-23-hour-trading-schedule-c0cf6139?siteid=yhoof2&yptr=yahoo
+https://finance.yahoo.com/markets/commodities/articles/wheat-rallying-monday-morning-123103382.html
+https://finance.yahoo.com/markets/commodities/articles/soybeans-fading-rest-grains-monday-123102098.html
+https://finance.yahoo.com/markets/crypto/articles/strategy-raises-2b-selling-mstr-124933992.html
+https://finance.yahoo.com/technology/ai/articles/jeff-bezos-amazon-just-raised-124800134.html
